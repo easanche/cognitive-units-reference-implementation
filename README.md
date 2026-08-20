@@ -1,9 +1,9 @@
-# Cognitive Units â€” Appendix B Reference Implementation
+# Cognitive Units — Appendix B Reference Implementation
 
 This repository contains the **non-normative Python/Pydantic reference implementation** accompanying the paper:
 
-**Cognitive Units: A Core Representational Artifact Model for Governed Cognitive Transformations in Operational Systems**
-Eduardo SÃ¡nchez Santana
+**Cognitive Units: A Core Representational Artifact Model for Governed Cognitive Transformations in Operational Systems**  
+Eduardo Sánchez Santana
 
 **Associated paper DOI:** add the Zenodo DOI here after the paper record is published.
 
@@ -15,14 +15,14 @@ It is **not** a production runtime, canonical Cognitive Unit implementation, cog
 
 ## Repository contents
 
-- `appendix_b_reference_impl.py` â€” frozen paper-version Python/Pydantic implementation.
-- `requirements.txt` â€” supported Pydantic major version.
-- `CITATION.cff` â€” citation metadata for the software repository/release.
-- `CODE_SHA256.txt` â€” integrity hash for the frozen Python module.
-- `SOURCE_MANIFEST.sha256` â€” integrity manifest for the public repository files.
-- `SMOKE_TEST.md` â€” minimal execution and integrity check.
-- `RELEASE_NOTES_v1.0.0.md` â€” first public release notes.
-- `LICENSE` â€” MIT License applying to this software repository.
+- `appendix_b_reference_impl.py` — frozen paper-version Python/Pydantic implementation.
+- `requirements.txt` — supported Pydantic major version.
+- `CITATION.cff` — citation metadata for the software repository/release.
+- `CODE_SHA256.txt` — integrity hash for the frozen Python module.
+- `SOURCE_MANIFEST.sha256` — integrity manifest for the public repository files.
+- `SMOKE_TEST.md` — minimal execution and integrity check.
+- `RELEASE_NOTES_v1.0.0.md` — first public release notes.
+- `LICENSE` — MIT License applying to this software repository.
 
 The manuscript source, including the explanatory Appendix B LaTeX, is distributed with the paper through Zenodo rather than duplicated in this software repository.
 
@@ -65,6 +65,6 @@ Use GitHub's **Cite this repository** function after `CITATION.cff` is available
 
 This software is released under the **MIT License**.
 
-Copyright (c) 2026 Eduardo SÃ¡nchez Santana.
+Copyright (c) 2026 Eduardo Sánchez Santana.
 
 The MIT License permits use, copying, modification, merging, publication, distribution, sublicensing, and sale of copies of the software, subject to preservation of the copyright and license notice. See [`LICENSE`](LICENSE) for the complete terms.
