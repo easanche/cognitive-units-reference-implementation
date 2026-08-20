@@ -5,7 +5,7 @@ This repository contains the **non-normative Python/Pydantic reference implement
 **Cognitive Units: A Core Representational Artifact Model for Governed Cognitive Transformations in Operational Systems**  
 Eduardo Sánchez Santana
 
-**Associated paper DOI:** add the Zenodo DOI here after the paper record is published.
+**Associated paper DOI:** https://doi.org/10.5281/zenodo.22021986
 
 ## Scope
 
