@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this reference implementation, please cite the software release and the associated Cognitive Units paper."
+type: software
+title: "Cognitive Units: Appendix B Reference Implementation"
+version: "1.0.0"
+date-released: "2026-08-20"
+license: MIT
+repository-code: "https://github.com/easanche/cognitive-units-reference-implementation"
+authors:
+  - family-names: "Sánchez Santana"
+    given-names: "Eduardo"
